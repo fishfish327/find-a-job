@@ -21,4 +21,5 @@ SkipIterator { hasNext; getCurrent; moveToNext; ... }
 - full time
 编辑字符串 input str1, str2, change str1 into str2 , return the change point of str1
 - 解法1 ： 线性查找， 一直往后走（无重复前提）
-- 解法2 ： 
+- 解法2 ： 二分查找str1
+
